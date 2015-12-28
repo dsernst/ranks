@@ -1,6 +1,6 @@
 {
   "name": "ranks",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Map an array of numbers into their fractional ranks",
   "main": "index.js",
   "scripts": {

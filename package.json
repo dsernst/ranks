@@ -4,7 +4,8 @@
   "description": "Map an array of numbers into their fractional ranks",
   "main": "index.js",
   "scripts": {
-    "test": "ava tests.js"
+    "test": "ava tests.js",
+    "cover": "nyc npm test"
   },
   "keywords": [
     "rank",
@@ -19,6 +20,7 @@
     "lodash": "^3.10.1"
   },
   "devDependencies": {
-    "ava": "^0.8.0"
+    "ava": "^0.8.0",
+    "nyc": "^5.0.1"
   }
 }

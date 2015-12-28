@@ -14,3 +14,17 @@ Use the [fractional mean](https://en.wikipedia.org/wiki/Ranking#Strategies_for_a
 rank([1, 1, 1, 2]) // [2, 2, 2, 4]
 rank([1, 1, 1, 1]) // [2.5, 2.5, 2.5, 2.5]
 ```
+
+## Tests
+
+Run the unit tests with `npm test`:
+
+```
+> ava tests.js
+
+
+  ✔ rank should map arrays to their ranks
+  ✔ rank should resolve ties at the mean
+
+  2 tests passed
+```

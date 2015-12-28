@@ -14,5 +14,8 @@
     "order"
   ],
   "author": "David Ernst <npm@dsernst.com> (http://dsernst.com)",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
 }

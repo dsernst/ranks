@@ -1,5 +1,9 @@
 # ranks
 
+[![NPM Version](https://img.shields.io/npm/v/ranks.svg)](https://www.npmjs.com/package/ranks)
+[![Build Status](https://travis-ci.org/dsernst/ranks.svg?branch=master)](https://travis-ci.org/dsernst/ranks)
+[![Coverage Status](https://coveralls.io/repos/dsernst/ranks/badge.svg?branch=master&service=github)](https://coveralls.io/github/dsernst/ranks?branch=master)
+
 ### Map an array of numbers into their fractional ranks
 
 ## Usage
